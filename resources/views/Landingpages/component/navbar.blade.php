@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top">
     <div class="container-fluid m-2">
       <a class="navbar-brand d-flex gap-2" href="#" style="align-items: center">
         <img src="{{ url('/img/logo.png') }}" alt="" style="width: 40px;">
